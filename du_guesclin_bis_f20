@@ -569,7 +569,11 @@
         },
         "@type" : "oa:Annotation"
       } ],
-      
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k1110614/f178.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    } ],
     "label" : "Current Page Order",
     "@type" : "sc:Sequence",
     "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1110614/sequence/default"
